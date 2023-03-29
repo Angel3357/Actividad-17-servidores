@@ -1,0 +1,3 @@
+Inicio
+Imprimir informacion
+Fin
